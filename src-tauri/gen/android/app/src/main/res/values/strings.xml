@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">"tauri-vite-react-typescript"</string>
+    <string name="main_activity_title">"tauri-vite-react-typescript"</string>
+</resources>
